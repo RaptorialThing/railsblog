@@ -1,5 +1,9 @@
 # README
 
+Just another blog on ruby on rails
+[Blog][http://api-tapi.herokuapp.com/] 
+[Source Code](https://github.com/RaptorialThing/railsblog)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
