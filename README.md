@@ -1,6 +1,6 @@
 # README
 
-Just another blog on ruby on rails
+Just another blog on rails
 [Blog][http://api-tapi.herokuapp.com/] 
 [Source Code](https://github.com/RaptorialThing/railsblog)
 
